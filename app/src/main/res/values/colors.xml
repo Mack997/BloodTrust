@@ -1,0 +1,44 @@
+<resources>
+    <color name="colorPrimary">#FF5252</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="grey">#E0E0E0</color>
+    <color name="darkRed">#D0373A</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="tranparentWhite">#CCCCCC</color>
+
+    <color name="Blue">#0A65B6</color>
+    <color name="Grey">#dddddd</color>
+    <color name="lightGrey">#FAFAFA</color>
+    <color name="darkGrey">#607D8B</color>
+
+    <color name="screen1">#D32F2F</color>
+    <color name="screen2">#80CBC4</color>
+    <color name="screen3">#4CAF50</color>
+    <color name="screen4">#9C27B0</color>
+
+
+    <color name="screen5">#FF5252</color>
+    <color name="screen6">#64FFDA</color>
+    <color name="screen7">#00E676</color>
+    <color name="screen8">#E1BEE7</color>
+
+    <array name="active">
+        <item name="screen1">#D32F2F</item>
+        <item name="screen2">#80CBC4</item>
+        <item name="screen3">#4CAF50</item>
+        <item name="screen4">#9C27B0</item>
+    </array>
+
+    <array name="inactive">
+        <item name="screen5">#FF5252</item>
+        <item name="screen6">#64FFDA</item>
+        <item name="screen7">#00E676</item>
+        <item name="screen8">#E1BEE7</item>
+    </array>
+
+</resources>

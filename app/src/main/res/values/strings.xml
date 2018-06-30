@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Blood Trust</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="all_users">All Users</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_id">user_id</string>
+    <string name="type_your_message_here">Type your message here</string>
+    <string name="todo">TODO</string>
+    <string name="scudder">Scudder</string>
+    <string name="currently_set_to">currently set to</string>
+    <string name="scudder_chat">Scudder Chat</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="display_name">Display Name</string>
+
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="create_account">Create Account</string>
+    <string name="need_a_new_account">Need a new Account?</string>
+    <string name="already_have_an_account">already have an account</string>
+    <string name="virtual_donor">Virtual Donor</string>
+    <string name="be_a_superhero">Be A Superhero</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="home">Home</string>
+    <string name="notification">Notification</string>
+    <string name="account">Account</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="search">Search</string>
+    <string name="donorname">DonorName</string>
+    <string name="password">Password</string>
+    <string name="call">Call</string>
+    <string name="details">Details</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="send_request">Send Request</string>
+    <string name="blood_trust">Blood Trust</string>
+
+    <array name="blood_groups">
+        <item>Blood Group</item>
+        <item>A</item>
+        <item>A+</item>
+        <item>B</item>
+        <item>B+</item>
+        <item>O</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </array>
+    <string name="title_activity_maps">Map</string>
+    <string name="maps">Maps</string>
+</resources>
